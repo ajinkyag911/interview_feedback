@@ -1,0 +1,122 @@
+{
+  "results": [
+    {
+      "gender": "female",
+      "name": {
+        "title": "Ms",
+        "first": "Lea",
+        "last": "Li"
+      },
+      "location": {
+        "street": {
+          "number": 502,
+          "name": "George St"
+        },
+        "city": "Keswick",
+        "state": "New Brunswick",
+        "country": "Canada",
+        "postcode": "G2Z 5H5",
+        "coordinates": {
+          "latitude": "-58.9509",
+          "longitude": "10.7820"
+        },
+        "timezone": {
+          "offset": "-3:00",
+          "description": "Brazil, Buenos Aires, Georgetown"
+        }
+      },
+      "email": "lea.li@example.com",
+      "login": {
+        "uuid": "a8c50873-3164-4780-b301-f9997fd2f730",
+        "username": "bigzebra622",
+        "password": "252525",
+        "salt": "hAqDHc0n",
+        "md5": "b760dd403d5c2295d27e02e966c09df0",
+        "sha1": "557ccb2ac436a3a6c5682e5163a70759f24f0ac6",
+        "sha256": "a6894522d23dd24637caeed8a0e3459bf220388e4d380c6a21ca8375a06dbd81"
+      },
+      "dob": {
+        "date": "1975-10-06T00:52:04.372Z",
+        "age": 46
+      },
+      "registered": {
+        "date": "2013-01-18T20:22:59.572Z",
+        "age": 8
+      },
+      "phone": "981-942-0923",
+      "cell": "846-139-4107",
+      "id": {
+        "name": "",
+        "value": null
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/46.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/46.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/46.jpg"
+      },
+      "nat": "CA"
+    },
+    {
+      "gender": "male",
+      "name": {
+        "title": "Mr",
+        "first": "Ole",
+        "last": "Moland"
+      },
+      "location": {
+        "street": {
+          "number": 7429,
+          "name": "Bjørndalsjordet"
+        },
+        "city": "Drøbak",
+        "state": "Rogaland",
+        "country": "Norway",
+        "postcode": "9143",
+        "coordinates": {
+          "latitude": "76.7956",
+          "longitude": "-89.0998"
+        },
+        "timezone": {
+          "offset": "+1:00",
+          "description": "Brussels, Copenhagen, Madrid, Paris"
+        }
+      },
+      "email": "ole.moland@example.com",
+      "login": {
+        "uuid": "5d7a36f7-10b3-43f8-88c3-b87b11a0c772",
+        "username": "organiccat619",
+        "password": "lesbain",
+        "salt": "XDBieGMB",
+        "md5": "3eac6a5f1165ca0b273d5cbe327bd6c2",
+        "sha1": "aef79a36a389ab5d095412827ca8015bb74046d7",
+        "sha256": "94cc48002bf5f94a1fe05eb411bbe557c4787b1136ab07ede3375c0abded1dec"
+      },
+      "dob": {
+        "date": "1947-02-11T10:02:28.032Z",
+        "age": 74
+      },
+      "registered": {
+        "date": "2005-05-15T16:36:55.724Z",
+        "age": 16
+      },
+      "phone": "78122605",
+      "cell": "93281522",
+      "id": {
+        "name": "FN",
+        "value": "11024749594"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/54.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/54.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/54.jpg"
+      },
+      "nat": "NO"
+    }
+  ],
+  "info": {
+    "seed": "8b096824dd652e6d",
+    "results": 2,
+    "page": 1,
+    "version": "1.3"
+  }
+}
